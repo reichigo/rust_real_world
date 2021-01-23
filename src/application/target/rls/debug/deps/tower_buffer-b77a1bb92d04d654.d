@@ -1,0 +1,11 @@
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\tower_buffer-b77a1bb92d04d654.rmeta: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\future.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\layer.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\message.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\service.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\worker.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\tower_buffer-b77a1bb92d04d654.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\future.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\layer.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\message.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\service.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\worker.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\error.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\future.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\layer.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\message.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\service.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tower-buffer-0.3.0\src\worker.rs:

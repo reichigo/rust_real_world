@@ -1,0 +1,5 @@
+c:\rustProjects\example_real_word\example_real_word\src\use_case\target\rls\debug\deps\use_case-9fa7d1d901f38d1d.rmeta: src\use_case\src\lib.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\use_case\target\rls\debug\deps\use_case-9fa7d1d901f38d1d.d: src\use_case\src\lib.rs
+
+src\use_case\src\lib.rs:

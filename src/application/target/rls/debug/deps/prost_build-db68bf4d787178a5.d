@@ -1,0 +1,15 @@
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\prost_build-db68bf4d787178a5.rmeta: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ast.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\code_generator.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\extern_paths.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ident.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\message_graph.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\libprost_build-db68bf4d787178a5.rlib: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ast.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\code_generator.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\extern_paths.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ident.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\message_graph.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\prost_build-db68bf4d787178a5.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ast.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\code_generator.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\extern_paths.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ident.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\message_graph.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ast.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\code_generator.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\extern_paths.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\ident.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-build-0.6.1\src\message_graph.rs:
+
+# env-dep:PROTOC=C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\prost-build-0.6.1\\third-party\\protobuf\\protoc-win32.exe
+# env-dep:PROTOC_INCLUDE=C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\prost-build-0.6.1\\third-party\\protobuf\\include

@@ -1,0 +1,11 @@
+c:\rustProjects\example_real_word\example_real_word\src\cross_cutting\target\rls\debug\deps\async_trait-8887b3852c6d0831.dll: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\args.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\expand.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\lifetime.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\parse.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\receiver.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\respan.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\cross_cutting\target\rls\debug\deps\async_trait-8887b3852c6d0831.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\args.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\expand.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\lifetime.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\parse.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\receiver.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\respan.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\args.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\expand.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\lifetime.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\parse.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\receiver.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\async-trait-0.1.42\src\respan.rs:

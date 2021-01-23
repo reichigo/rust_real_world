@@ -1,0 +1,7 @@
+application:
+  host: 0.0.0.0
+  port: 5000
+mongodb: 
+  host: cluster0.gipap.mongodb.net
+  db_name: user
+  password: Renato283

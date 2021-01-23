@@ -1,0 +1,12 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+
+package user_proto;
+
+message InsertUserRequest{
+    string name = 1;
+}
+
+service User{
+    rpc Insert (InsertUserRequest) returns (google.protobuf.Empty) ;
+}

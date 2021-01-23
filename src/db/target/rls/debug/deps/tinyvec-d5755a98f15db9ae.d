@@ -1,0 +1,11 @@
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\tinyvec-d5755a98f15db9ae.rmeta: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\array.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\array\generated_impl.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\arrayvec.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\arrayvec_drain.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\slicevec.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\tinyvec.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\tinyvec-d5755a98f15db9ae.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\array.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\array\generated_impl.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\arrayvec.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\arrayvec_drain.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\slicevec.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\tinyvec.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\array.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\array\generated_impl.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\arrayvec.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\arrayvec_drain.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\slicevec.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec-1.1.0\src\tinyvec.rs:

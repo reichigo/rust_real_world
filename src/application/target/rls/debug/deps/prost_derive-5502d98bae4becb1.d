@@ -1,0 +1,11 @@
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\prost_derive-5502d98bae4becb1.dll: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\group.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\map.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\message.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\oneof.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\scalar.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\prost_derive-5502d98bae4becb1.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\group.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\map.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\message.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\oneof.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\scalar.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\mod.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\group.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\map.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\message.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\oneof.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\prost-derive-0.6.1\src\field\scalar.rs:

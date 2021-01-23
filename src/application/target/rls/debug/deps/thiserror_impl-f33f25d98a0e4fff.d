@@ -1,0 +1,11 @@
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\thiserror_impl-f33f25d98a0e4fff.dll: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\thiserror_impl-f33f25d98a0e4fff.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\ast.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\attr.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\expand.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\fmt.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\prop.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.23\src\valid.rs:

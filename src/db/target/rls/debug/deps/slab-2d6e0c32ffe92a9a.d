@@ -1,0 +1,5 @@
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\slab-2d6e0c32ffe92a9a.rmeta: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\slab-0.4.2\src\lib.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\slab-2d6e0c32ffe92a9a.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\slab-0.4.2\src\lib.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\slab-0.4.2\src\lib.rs:

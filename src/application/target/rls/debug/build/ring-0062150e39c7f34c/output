@@ -1,0 +1,112 @@
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+ecp_nistz.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+ecp_nistz256.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+gfp_p256.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+gfp_p384.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+cpu-intel.c
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+poly1305_vec.c
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\lib.exe" "-out:c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\libring-core.a" "-nologo" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\aesni-x86_64-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\vpaes-x86_64-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\x86_64-mont-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\x86_64-mont5-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\chacha-x86_64-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\p256-x86_64-asm-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\aesni-gcm-x86_64-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\ghash-x86_64-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\sha512-x86_64-nasm.obj" "C:\\Users\\renat\\.cargo\\registry\\src\\github.com-1ecc6299db9ec823\\ring-0.16.19\\pregenerated\\sha256-x86_64-nasm.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\aes_nohw.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\montgomery.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\montgomery_inv.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\limbs.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\mem.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\poly1305.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\crypto.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\curve25519.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\ecp_nistz.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\ecp_nistz256.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\gfp_p256.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\gfp_p384.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\cpu-intel.obj" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\poly1305_vec.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-core
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-pc-windows-msvc")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+constant_time_test.c
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\HostX64\\x64\\lib.exe" "-out:c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\libring-test.a" "-nologo" "c:\\rustProjects\\example_real_word\\example_real_word\\src\\application\\target\\rls\\debug\\build\\ring-0062150e39c7f34c\\out\\constant_time_test.obj"
+exit code: 0
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\build\ring-0062150e39c7f34c\out

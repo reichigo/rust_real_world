@@ -1,0 +1,7 @@
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\winreg-7077048b29ab9e0a.rmeta: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\enums.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\types.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\winreg-7077048b29ab9e0a.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\enums.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\types.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\enums.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\winreg-0.7.0\src\types.rs:

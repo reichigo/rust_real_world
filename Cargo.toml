@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "src/domain",
+    "src/use_case",
+    "src/db",
+    "src/application",
+    "src/cross_cutting",
+]

@@ -1,0 +1,16 @@
+[package]
+name = "db"
+version = "0.1.0"
+authors = ["Renato Neves <renato.eves@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cross_cutting = { package = "cross_cutting", path = "../cross_cutting" }
+mongodb = "1.1.0"
+async-trait = "0.1.42"
+serde = {version = "1.0", features = ["derive"] }
+domain = { package = "domain", path = "../domain" }
+uuid = { version = "0.8", features = ["serde", "v4"] }
+config = "0.10.1"

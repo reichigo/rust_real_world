@@ -1,0 +1,11 @@
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\futures_task-0d20c8a6a88635b7.rmeta: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\spawn.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\future_obj.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\noop_waker.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\arc_wake.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\waker.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\waker_ref.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\application\target\rls\debug\deps\futures_task-0d20c8a6a88635b7.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\spawn.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\future_obj.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\noop_waker.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\arc_wake.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\waker.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\waker_ref.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\spawn.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\future_obj.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\noop_waker.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\arc_wake.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\waker.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.12\src\waker_ref.rs:

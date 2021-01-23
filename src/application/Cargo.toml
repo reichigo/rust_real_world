@@ -1,0 +1,22 @@
+[package]
+name = "application"
+version = "0.1.0"
+authors = ["Renato Neves <renato.eves@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = {version = "1.0", features = ["derive"] }
+tonic = {version="0.3.1", features = ["tls", "transport"]}
+tokio = {version="0.2.2",features = ["full"]}
+prost-types = "0.6.1"
+prost = "0.6.1"
+config = "0.10.1"
+db = { package = "db", path = "../db" }
+use_case = { package = "use_case", path = "../use_case" }
+cross_cutting = { package = "cross_cutting", path = "../cross_cutting" }
+domain = { package = "domain", path = "../domain" }
+
+[build-dependencies]
+tonic-build = "0.3.1"

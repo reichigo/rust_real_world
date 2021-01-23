@@ -1,0 +1,13 @@
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\uuid-cf66079bee0ab202.rmeta: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\prelude.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\adapter\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\v4.rs
+
+c:\rustProjects\example_real_word\example_real_word\src\db\target\rls\debug\deps\uuid-cf66079bee0ab202.d: C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\lib.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\error.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\prelude.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\adapter\mod.rs C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\v4.rs
+
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\lib.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\mod.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\builder\error.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\error.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\mod.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\parser\error.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\prelude.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\adapter\mod.rs:
+C:\Users\renat\.cargo\registry\src\github.com-1ecc6299db9ec823\uuid-0.8.2\src\v4.rs:
